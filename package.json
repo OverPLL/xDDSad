@@ -1,0 +1,24 @@
+{
+  "name": "musicbot",
+  "version": "1.0.0",
+  "description": "24/7 music bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start index.js --watch='index.js' --name musicbot",
+    "stop": "pm2 stop musicbot",
+    "restart": "npm stop && npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^3.0.5",
+    "discord.js": "^11.3.2",
+    "erlpack": "github:discordapp/erlpack",
+    "libsodium-wrappers": "^0.7.3",
+    "node-opus": "^0.2.7",
+    "opusscript": "0.0.6",
+    "sodium": "^2.0.3",
+    "uws": "^9.148.0",
+    "ytdl-core": "^0.20.4"
+  }
+}

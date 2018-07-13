@@ -1,0 +1,34 @@
+{
+	"songs": [
+		{
+			"name": "egyptian pools",
+			"artist": "jinsang",
+			"url": "https://www.youtube.com/watch?v=m1z7W3CKFWI"
+		},
+		{
+			"name": "ラ・ム・ネ",
+			"artist": "Snail's House",
+			"url": "https://www.youtube.com/watch?v=tc6ZWa4X_PE"
+		},
+		{
+			"name": "we've never met but, can we have a coffee or something?",
+			"artist": "in love with a ghost",
+			"url": "https://www.youtube.com/watch?v=0XZJ5mD6nSU"
+		},
+		{
+			"name": "Departure",
+			"artist": "Sonder",
+			"url": "https://www.youtube.com/watch?v=eCnflKKgUFU"
+		},
+		{
+			"name": "Aruarian Dance",
+			"artist": "Nujabes",
+			"url": "https://www.youtube.com/watch?v=TYRDgd3Tb44"
+		},
+		{
+			"name": "Eternal Youth",
+			"artist": "RUDE",
+			"url": "https://www.youtube.com/watch?v=DhHGDOgjie4"
+		}
+	]
+}
