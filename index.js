@@ -1,8 +1,3 @@
-//TODO:
-//Push to Github
-//add to portfolio
-//Expand lofi songs list
-//invite people to server
 const Discord = require('discord.js');
 const ytdl = require('ytdl-core');
 const config = require('./config.json');
