@@ -40,7 +40,7 @@ const commands = {
 		process: function(msg) {
 			msg.channel.send({
 				'embed': {
-					'description': 'Currently playing ' + nowPlaying.name + ' by ' + nowPlaying.artist + '.'
+					'description': 'Currently playing "' + nowPlaying.name + '" by ' + nowPlaying.artist + '.'
 				}
 			});
 		}
